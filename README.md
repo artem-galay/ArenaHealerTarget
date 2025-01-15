@@ -1,4 +1,5 @@
 # ArenaHealerTarget
+To install addon paste ArenaHealerTarget directory from this project to your World of Warcraft\_retail_\Interface\AddOns directory
 
 Ingame commands:
 
