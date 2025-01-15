@@ -1,6 +1,11 @@
 # ArenaHealerTarget
+
+Ingame commands:
+
 /aht - run Arena module manually
+
 /ahtbg - run BG module manually
+
 /ahthelp - help
 
 	This addon will detect enemies' healers and replace special marks in your macro with healers' arena units (when in Arena) or with healers' nicknames (when in BG).
